@@ -80,31 +80,3 @@ Received Import Request.
 Start importing Assets/echoAR using Guid(d698d8a06c531dc47ae04023eb4a1a58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24c09de7c01ea850a59ad6a5f445c370') in 0.000945 seconds
   Import took 0.003163 seconds .
 
-========================================================================
-Received Import Request.
-  Time since last request: 339.161483 seconds.
-  path: Assets/echoAR/Libraries/GLTFUtility/Scripts/Editor/GLTFUtility.Editor.asmdef
-  artifactKey: Guid(56f0af5eabd0f8244a313552ef7d963e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/echoAR/Libraries/GLTFUtility/Scripts/Editor/GLTFUtility.Editor.asmdef using Guid(56f0af5eabd0f8244a313552ef7d963e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5b87175827cf952dbb464c9fe62c66d') in 0.430960 seconds
-  Import took 0.434597 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000468 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 0.19 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.992 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.18 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 131.6 MB.
-System memory in use after: 131.7 MB.
-
-Unloading 437 unused Assets to reduce memory usage. Loaded Objects now: 1579.
-Total: 1.765195 ms (FindLiveObjects: 0.185237 ms CreateObjectMapping: 0.047559 ms MarkObjects: 1.365804 ms  DeleteObjects: 0.165736 ms)
-
